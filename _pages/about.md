@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📖 Personal Profile
-I am Patrick-LW, an undergraduate student majoring in Computer Science at <a href="https://www.nwafu.edu.cn/">Northwest A&F University (NWAFU) </a>. I am also a programming beginner with a big heart for learning. Right now, I'm learning Python and C++. I hope to make continuous progress. Feel free to reach out to me for academic discussions.
+I am Peize Wu (Patrick-LW), an undergraduate student majoring in Computer Science at <a href="https://www.nwafu.edu.cn/">Northwest A&F University (NWAFU) </a>. I am also a programming beginner with a big heart for learning. Right now, I'm learning Python and C++. I hope to make continuous progress. Feel free to reach out to me for academic discussions.
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉🎉 Become an undergraduate student at Northwest A&F University .
@@ -33,7 +33,7 @@ I am Patrick-LW, an undergraduate student majoring in Computer Science at <a hre
 - *2026.09 - now*,  <a href="https://www.nwafu.edu.cn/">Northwest A&F University (NWAFU) </a>
 
 <hr/>
-  ©  Patrick-LW | NWAFU | Powered by
+  © 2026 Peize Wu (Patrick-LW) · NWAFU | Powered by
   <a class="page_a"  href="https://github.com/RayeRen/acad-homepage.github.io">
   the acad
   </a>
