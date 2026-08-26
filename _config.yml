@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Patrick-LW"
+title                    : "Peize Wu"
 description              : "Just a programming rookie."
 repository               : "Patrick-LW/Patrick-LW.github.io"
 google_scholar_stats_use_cdn : false
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Patrick-LW"
+  name             : "Peize Wu"
   avatar           : "images/picture.png"
   bio              : "NWAFU"
   location         : "Shaanxi,China"
