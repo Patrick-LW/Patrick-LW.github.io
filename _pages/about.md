@@ -31,9 +31,3 @@ I am Peize Wu (Patrick-LW), an undergraduate student majoring in Computer Scienc
 
 # 📖 Educations
 - *2026.09 - now*,  <a href="https://www.nwafu.edu.cn/">Northwest A&F University (NWAFU) </a>
-
-<hr/>
-  © 2026 Peize Wu (Patrick-LW) · NWAFU | Powered by
-  <a class="page_a"  href="https://github.com/RayeRen/acad-homepage.github.io">
-  the acad
-  </a>
