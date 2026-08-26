@@ -23,7 +23,7 @@ I am Patrick-LW, an undergraduate student majoring in Computer Science at <a hre
 # 🔥 News
 - *2026.09*: &nbsp;🎉🎉 Become an undergraduate student at Northwest A&F University .
 
-#📝 Publications
+# 📝 Publications 
 - *To Be Determined* 
 
 # 🎖 Honors and Awards
