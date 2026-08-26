@@ -35,11 +35,9 @@ I am Patrick-LW, an undergraduate student majoring in Computer Science at <a hre
 <div class="footer_site">
 <hr/>
 <div class="footer_copyright">
-  ©  NWAFU · Patrick-LW | Powered by &nbsp
+  ©  NWAFU · Patrick-LW | Powered by
   <a class="page_a"  href="https://github.com/RayeRen/acad-homepage.github.io">
   the acad
-  </a>&nbsp
+  </a>
 </div>
 </div>
-  </body>
-</html>
