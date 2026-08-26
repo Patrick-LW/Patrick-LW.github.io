@@ -32,12 +32,8 @@ I am Patrick-LW, an undergraduate student majoring in Computer Science at <a hre
 # 📖 Educations
 - *2026.09 - now*,  <a href="https://www.nwafu.edu.cn/">Northwest A&F University (NWAFU) </a>
 
-<div class="footer_site">
 <hr/>
-<div class="footer_copyright">
-  ©  NWAFU · Patrick-LW | Powered by
+  ©  Patrick-LW | NWAFU | Powered by
   <a class="page_a"  href="https://github.com/RayeRen/acad-homepage.github.io">
   the acad
   </a>
-</div>
-</div>
